@@ -48,7 +48,6 @@ Files Included:
 - gradebot.exe – Testing client used to verify correctness
 - LICENSE – MIT license file
 - Screenshot of Gradebot output (all 65 points)
-- Screenshot of server running and handling /auth and /jwks.json requests
 
 Requirements:
 - Python 3.8+
