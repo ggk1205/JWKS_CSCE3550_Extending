@@ -1,5 +1,4 @@
 # JWKS_CSCE3550_Extending
-# JWKS_CSCE3550_Extending
 Overview:
 This project enhances a JSON Web Key Set (JWKS) server by integrating a SQLite database for private key storage. It includes secure JWT issuance, query parameter use to prevent SQL injection, and support for serving public keys through a JWKS endpoint.
 
